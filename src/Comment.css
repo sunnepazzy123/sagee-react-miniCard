@@ -1,0 +1,41 @@
+.comment {
+    background-color: hsl(223, 19%, 93%);
+    border: 1px solid;
+    padding: 10px;
+}
+
+.comment-wrapper {
+  background-color: hsl(223, 19%, 93%);
+  margin-bottom: 20px;
+}
+
+.comment-card {
+  background: white;
+  padding: 10px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.comment-counter{
+  margin: 10px;
+}
+
+.comment-reply {
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+.comment-reply-box {
+  border-left: 4px solid #dedededb;
+  margin-left: 30px;
+}
+
+.comment-reply-wrapper {
+  margin-left: 30px;
+}
+
+.comment-footer-box {
+  display: flex;
+}
